@@ -61,8 +61,8 @@ ninja.data = [{
           description: "A Unity learning game that you play in the editor.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/journey/";
-            },},{id: "projects-watercolor-rendering",
-          title: 'Watercolor Rendering',
+            },},{id: "projects-drag-shader",
+          title: 'Drag Shader',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/shaders/drag-shader/";
