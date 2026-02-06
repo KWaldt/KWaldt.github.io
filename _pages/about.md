@@ -29,7 +29,9 @@ Hello there! 👋
 I'm Kristina, a Technical Artist and game programmer. (My poison of choice is Unity, but I've also worked with other engineer, like Unreal or a C++ homebrew engines.)
 
 Aside from my specialisation, I love learning about game dev and general and absolutely adore working across departments! It's my belief that learning beyond your niche helps you communicate with people better - and it's also an added benefit as a tool programmer because it allows me to find points of friction easier so that I can automate them away.
+
 Before falling in love with programming, I've worked as a game artist, and I've also given lectures for a game dev Bachelor's degree where I taught both artists and programmers.
+
 Games are complex projects, so I deeply value collaboration and good communication so that we can all work our best. ✨
 
 I'm currently working on a personal project (a cute tea game 🌱) and I am also available for freelance work. Feel free to get in touch if you need help bullying shaders into submission, crafting a prototype, or if you want me to write some deliciously documented code. 
