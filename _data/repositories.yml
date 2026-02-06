@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+#  - KWaldt
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - KWaldt/extension-methods
+  - KWaldt/scene-switcher-window
+  - KWaldt/value-objects
+  - KWaldt/urp-shader-samples

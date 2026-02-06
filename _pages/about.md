@@ -1,23 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Tech Artist & Unity Engineer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: favicon.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,10 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello world! Does this work at all?
+Hello there! 👋
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Kristina, a Technical Artist and game programmer. (My poison of choice is Unity, but I've also worked with other engineer, like Unreal or a C++ homebrew engines.)
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Aside from my specialisation, I love learning about game dev and general and absolutely adore working across departments! It's my belief that learning beyond your niche helps you communicate with people better - and it's also an added benefit as a tool programmer because it allows me to find points of friction easier so that I can automate them away.
+Before falling in love with programming, I've worked as a game artist, and I've also given lectures for a game dev Bachelor's degree where I taught both artists and programmers.
+Games are complex projects, so I deeply value collaboration and good communication so that we can all work our best. ✨
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm currently working on a personal project (a cute tea game 🌱) and I am also available for freelance work. Feel free to get in touch if you need help bullying shaders into submission, crafting a prototype, or if you want me to write some deliciously documented code. 
+
+I also love to chat if you want to geek out over anything! You can reach me via <a href="mailto:info@kristinawaldt.com">email</a> or Discord (kristinawaldt)!
+I'd love to hear from you~
