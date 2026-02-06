@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Watercolor Rendering
+title: Drag Shader
 description: with background image
 img: assets/img/favicon.png
 importance: 1
