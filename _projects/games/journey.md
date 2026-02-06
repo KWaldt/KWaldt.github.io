@@ -4,7 +4,7 @@ title: Journey
 description: A Unity learning game that you play in the editor.
 img: assets/img/projects/journey/thumbnail.png
 importance: 1
-category: General
+category: Games
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLAJadDOdQ4?si=D7MjBocnuaNWzNVW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

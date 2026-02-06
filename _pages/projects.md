@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: XX Intro + align the categories to the left. Grab more shaders from the Game Dev Hub, plus hair + eyes.
+description: 
 nav: true
 nav_order: 3
-display_categories: [General, Shaders]
+display_categories: [Games, General, Shaders]
 horizontal: false
 ---
 
