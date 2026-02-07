@@ -191,13 +191,16 @@ ul.task-list input[type="checkbox"] {
 .card {
   background-color: var(--global-card-bg-color);
 
+  figure{
+    margin: 0 !important;
+  }
+
   .card-img {
     width: 100%;
     padding-top: 1.25rem;
   }
 
   .card-title {
-    font-family: "Oswald", sans-serif;
     color: var(--global-text-color);
   }
 
@@ -209,9 +212,8 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-project-title {
-    font-family: "Oswald", sans-serif;
     color: var(--global-text-color);
-    margin-bottom: 0;
+    margin-bottom: 5px;
   }
 
   .card-extra-text {
