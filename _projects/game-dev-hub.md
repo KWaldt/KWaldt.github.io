@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Game Dev Hub
-description: with background image
+description: ...
+role: Instructor<span class="card-subtitle-text">Programming, Shaders, Tech Art, Game Art</span>
 img: assets/img/favicon.png
 importance: 1
 category: General
 ---
 
-(TODO)
+More info soon~

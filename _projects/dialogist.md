@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Dialogist
-description: with background image
+description: ...
 img: assets/img/favicon.png
+role: Programmer<span class="card-subtitle-text">TypeScript, Vue</span>
 importance: 1
 category: General
 ---
 
-(TODO)
+More info soon~
