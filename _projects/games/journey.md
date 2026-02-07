@@ -6,6 +6,7 @@ platform: PC (Unity Editor, Git)
 img: assets/img/projects/journey/thumbnail.png
 company: me
 importance: 3
+info: Learn more here!
 category: Games
 ---
 

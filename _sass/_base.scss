@@ -194,11 +194,38 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color-light);
     font-size: 0.9rem;
     margin-bottom: 0;
+
+    a:hover{
+      color: var(--global-hover-color);
+    }
+  }
+
+  .card-info-link {
+    color: var(--global-theme-color);
+    font-size: 0.9rem;
+    margin-bottom: 0;
   }
 
   .card-main-text {
     font-size: 0.9rem;
     margin-top: 1rem;
+  }
+
+  .card-subtitle-text{
+    color: var(--global-text-color-light);
+    font-size: 0.6rem;
+    display: block;
+  }
+
+  .card-role {
+    // border-radius: 25px;
+    border-width: 0 0 0 3px;
+    border-style: solid;
+    border-color: var(--global-theme-color);
+    padding-left: 10px;
+    font-size: 0.9rem;
+
+    // margin-bottom: 0;
   }
 }
 
@@ -698,7 +725,12 @@ footer.sticky-bottom {
 
     &:hover {
       .card-title {
-        color: var(--global-theme-color);
+        color: var(--global-hover-color);
+      }
+
+      .card-info-link
+       {
+        color: var(--global-hover-color);
       }
     }
   }

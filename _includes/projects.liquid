@@ -23,6 +23,12 @@
           <p class="card-extra-text">{{ project.link }}</p>
         {% endif %}
         <p class="card-main-text">{{ project.description }}</p>
+        {% if project.role %}
+          <p class="card-role">{{ project.role }}</p>
+        {% endif %}
+        {% if project.info %}
+          <p class="card-info-link">➤ {{ project.info }}</p>
+        {% endif %}
         <div class="row ml-1 mr-1 p-0">
           {% if project.github %}
             <div class="github-icon">
