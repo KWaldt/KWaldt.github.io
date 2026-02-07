@@ -2,8 +2,10 @@
 layout: page
 title: Journey
 description: A Unity learning game that you play in the editor.
+platform: PC (Unity Editor, Git)
 img: assets/img/projects/journey/thumbnail.png
-importance: 1
+company: me
+importance: 3
 category: Games
 ---
 

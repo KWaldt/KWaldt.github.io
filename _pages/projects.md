@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [Games, General, Shaders]
-horizontal: false
+horizontal: false # KW: If you turn this to true, also edit the liquid
 ---
 
 <!-- pages/projects.md -->

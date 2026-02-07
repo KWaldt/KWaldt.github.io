@@ -184,6 +184,22 @@ ul.task-list input[type="checkbox"] {
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
+
+  .card-project-title {
+    color: var(--global-text-color);
+    margin-bottom: 0;
+  }
+
+  .card-extra-text {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    margin-bottom: 0;
+  }
+
+  .card-main-text {
+    font-size: 0.9rem;
+    margin-top: 1rem;
+  }
 }
 
 // Citation
@@ -709,7 +725,7 @@ footer.sticky-bottom {
     padding-top: 0.5rem;
     margin-top: 2rem;
     margin-bottom: 1rem;
-    text-align: right;
+    // text-align: right;
   }
 }
 

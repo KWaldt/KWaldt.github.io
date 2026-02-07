@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Kinder World
-description: Lumi Interactive<br>Android & iOS<br><a href="https://www.playkinderworld.com/">Website</a>
+description: Unity Engineer
 img: assets/img/projects/journey/thumbnail.png
+link: <a href="https://www.playkinderworld.com/">Website</a>
+company: Lumi Interactive
+platform: Android & iOS
 importance: 1
 category: Games
 ---
