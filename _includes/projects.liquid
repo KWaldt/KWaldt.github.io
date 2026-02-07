@@ -19,7 +19,7 @@
           <p class="card-extra-text">{{ project.platform }}</p>
         {% endif %}
         {% if project.link %}
-          <p class="card-extra-text">{{ project.link }}</p>
+            <a class="card-extra-link" href="{% if project.redirect %}{{ project.redirect }}{% else %}{{ project.url | relative_url }}{% endif %}">{{ project.link }}</a>
         {% endif %}
         <p class="card-main-text">{{ project.description }}</p>
         {% if project.role %}

@@ -2,7 +2,7 @@
 layout: page
 title: Journey # Edit link if this changes!
 description: A Unity learning game that you play in the editor.
-link: <a href="games/journey">Learn more here!</a>
+link: Learn more here!
 platform: PC (Unity Editor, Git)
 role: Solo Dev
 img: assets/img/projects/journey/thumbnail.png
