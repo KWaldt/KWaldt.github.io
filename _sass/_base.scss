@@ -32,6 +32,16 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+// This prevents the page from jumping on load
+.fixed-top-nav{
+  padding-top: 0 !important;
+}
+
+// This is the nav bar padding
+div[role=main]{
+  padding-top: 40px;
+}
+
 table {
   td,
   th {
