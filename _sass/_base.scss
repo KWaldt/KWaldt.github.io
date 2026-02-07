@@ -19,6 +19,15 @@ strong {
   color: var(--global-text-color);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oswald", sans-serif;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -178,6 +187,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-title {
+    font-family: "Oswald", sans-serif;
     color: var(--global-text-color);
   }
 
@@ -186,6 +196,7 @@ ul.task-list input[type="checkbox"] {
   }
 
   .card-project-title {
+    font-family: "Oswald", sans-serif;
     color: var(--global-text-color);
     margin-bottom: 0;
   }
@@ -209,6 +220,7 @@ ul.task-list input[type="checkbox"] {
   .card-main-text {
     font-size: 0.9rem;
     margin-top: 1rem;
+    font-weight: 300;
   }
 
   .card-subtitle-text{
