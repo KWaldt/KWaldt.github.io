@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Journey
+title: Journey # Edit link if this changes!
 description: A Unity learning game that you play in the editor.
+link: <a href="games/journey">Learn more here!</a>
 platform: PC (Unity Editor, Git)
+role: Solo Dev
 img: assets/img/projects/journey/thumbnail.png
 company: me
 importance: 3
-info: Learn more here!
-category: Games
+# info: Learn more here!
+category: Games # Edit link if this changes!
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLAJadDOdQ4?si=D7MjBocnuaNWzNVW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
